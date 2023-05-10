@@ -1,5 +1,5 @@
-### Hi there I'm Shirali Singh👋
-<h3 align="center">A Passionate Web Developer ♾️</h3>
+<h1 align="center"> Hi there I'm Shirali Singh👋</h1>
+<h3 align="center">A Passionate Web Developer </h3>
 
 
 Here are some ideas to get you started:
