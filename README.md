@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Froentend Prjects
+- 🔭 I’m currently working on Froentend Projects
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Full Stack projects
 - 🤔 I’m looking for help with ...
